@@ -167,7 +167,7 @@ If you backed up your NAND as part of [DSiWare Downgrade (Save Injection)](dsiwa
 8. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
 9. Return to the FBI main menu with (B)
 10. Select "CTR NAND"
-11. Select "\<Current directory>"
+11. Select "\<current directory>"
 12. Select the "Paste" option, then press (A) to confirm
 8. Exit with the home button
 9. Launch the Homebrew Launcher from the home menu
@@ -204,7 +204,7 @@ If you have no tickets to restore, skip this section.
 1. Open FBI
 2. Select "SD"
 3. Select "files9"
-4. Select "\<Current directory>"
+4. Select "\<current directory>"
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm

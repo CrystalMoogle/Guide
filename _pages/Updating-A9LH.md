@@ -77,7 +77,7 @@ These steps will also update your various payloads and the AES key database.
 18. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
 9. Return to the FBI main menu with (B)
 10. Select "CTR NAND"
-11. Select "\<Current directory>"
+11. Select "\<current directory>"
 12. Select the "Paste" option, then press (A) to confirm
 8. Exit with the home button
 9. Power off your 3DS and remove the SD card
