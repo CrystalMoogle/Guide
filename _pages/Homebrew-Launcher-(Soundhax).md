@@ -27,8 +27,11 @@ SoundHax is compatible with versions 9.0.0 through 11.2.0 in the EUR, JPN, and U
 6. Play the SoundHax `.m4a`
 7. Your console should load the homebrew menu
 
-If you are above the version 9.2.0, continue to [9.2.0 Downgrade](9.2.0-downgrade)
+If you are in the KOR region, continue to [10.3.0 Downgrade)](10.3.0-downgrade)
 {: .notice--primary}
 
-If you are on the version 9.2.0 or below, continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
+If you are above the version 9.2.0 in any other region, continue to [9.2.0 Downgrade](9.2.0-downgrade)
+{: .notice--primary}
+
+If you are on the version 9.2.0 or below in any other region, continue to [Decrypt9 (Homebrew Launcher)](decrypt9-(homebrew-launcher))
 {: .notice--primary}

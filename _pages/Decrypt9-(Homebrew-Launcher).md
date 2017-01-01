@@ -17,7 +17,7 @@ If you have already hacked your 3DS before and have a EmuNAND based CFW setup, t
 3. Reinsert your SD card into your 3DS
 4. Enter the homebrew launcher
 4. Open Decrypt9WIP **(This can sometimes take a few tries)**
-    + If you cannot launch Decrypt9WIP after many tries, you most likely have a partial downgrade and should refer to the [9.2.0 Downgrade](9.2.0-downgrade) page
+  + If you cannot launch Decrypt9WIP after many tries, you most likely have a partial downgrade and should refer to the [9.2.0 Downgrade](9.2.0-downgrade) page
 4. Go to "SysNAND Options", then "SysNAND Backup/Restore"
 5. Perform a "NAND Backup (min size)" and backup your NAND to `NANDmin.bin`
 6. Return to the Main Menu

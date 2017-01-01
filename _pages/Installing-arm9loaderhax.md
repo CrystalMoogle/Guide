@@ -88,9 +88,7 @@ During this process, we also setup programs such as the following:
     + EUR Region: Delete `00000098`
     + JPN Region: Delete `00000082`
     + USA Region: Delete `0000008f`
-    + CHN Region: Delete `000000A1`
     + KOR Region: Delete `000000A9`
-    + TWN Region: Delete `000000B1`
 
 ##### Section II - Installing arm9loaderhax
 
@@ -169,7 +167,7 @@ If you backed up your NAND as part of [DSiWare Downgrade (Save Injection)](dsiwa
 8. Navigate to `arm9loaderhax.bin`, then press (A) on it and select the "Copy" option
 9. Return to the FBI main menu with (B)
 10. Select "CTR NAND"
-11. Select "\<current directory>"
+11. Select "\<Current directory>"
 12. Select the "Paste" option, then press (A) to confirm
 8. Exit with the home button
 9. Launch the Homebrew Launcher from the home menu
@@ -206,7 +204,7 @@ If you have no tickets to restore, skip this section.
 1. Open FBI
 2. Select "SD"
 3. Select "files9"
-4. Select "\<current directory>"
+4. Select "\<Current directory>"
 5. Select "Install and delete all tickets"
 6. Wait. The system may appear to freeze, just give it time.
 7. Press (A) to confirm
